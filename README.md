@@ -45,8 +45,7 @@ I'm a inspiring software engineer and data analyst/scientist. I love the process
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tatendamawango&show_icons=true&hide=issues&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatendamawango&layout=compact&hide_progress=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatendamawango&hide_progress=true"/>
 </p>
 
 ---

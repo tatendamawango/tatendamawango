@@ -12,7 +12,7 @@ your profile README. Its README.md will appear on your GitHub profile!
 ---
 
 ### 👨‍💻 About Me
-I'm a inspiring software engineer and data analyst/scientist. I love the process of building solutions whether it's building mobile apps, automating workflows or exploring insights from data using tools like Python and AI. Currently I'm pursuing my Masters in Data Science and Artificial Intelligence at Kaunas University of Technology. Outside of work, you will often find me staying active with sports, getting involved with Erasmus events and finding clever ways to automate things.
+I'm Tatenda Mawango 👋. I love the process of building solutions whether it's building mobile apps, automating workflows or exploring insights from data using tools like Python and AI. Currently I'm pursuing my Masters in Data Science and Artificial Intelligence at Kaunas University of Technology. Outside of work, you will often find me staying active with sports, getting involved with Erasmus events and finding clever ways to automate things.
 
 ---
 
